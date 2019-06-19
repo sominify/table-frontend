@@ -1,0 +1,13 @@
+.order .order-menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.order .order-menu .order-menu-name {
+    font-size: 1.2rem;
+}
+
+.order .order-menu .order-menu-count {
+    font-size: 1.2rem;
+}
